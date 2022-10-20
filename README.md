@@ -2,38 +2,28 @@
 
 En el presente readme se anexan los pantallazos que demuestran que el testing mediante insomnia funciona correctamente. 
 
-GET ALL STORE
+tienda creada 
 
-![Image text](https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/GetAllStore.png)
+![Image text]([https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/GetAllStore.png](https://github.com/juanpisjaja/RestApy/blob/main/img/Captura%20de%20pantalla%202022-10-20%20175129.png?raw=true))
 
-http://127.0.0.1:5000/store (endpoint)
 
-POST NEW STORE
+nueva tienda
 
-![Image text](https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/PostNewStore.png)
+![Image text]([https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/PostNewStore.png](https://github.com/juanpisjaja/RestApy/blob/main/img/Captura%20de%20pantalla%202022-10-20%20175219.png?raw=true))
 
-http://127.0.0.1:5000/store (endpoint)
 
-{
-	"name": "second_store"
-}
-POST NEW ITEM 
+nuevo item de la tienda
 
-![Image text](https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/PostNewItem.png)
+![Image text]([https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/PostNewItem.png](https://github.com/juanpisjaja/RestApy/blob/main/img/Captura%20de%20pantalla%202022-10-20%20175239.png?raw=true))
 
-http://127.0.0.1:5000/store/Valentina_Store/item (endpoint)
 
-{
-	"name": "phone_case",
-	"price": 1.99
-}
-GET STORE
+comprobacion de tienda creada
 
-![Image text](https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/GetStore.png)
+![Image text]([https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/GetStore.png](https://github.com/juanpisjaja/RestApy/blob/main/img/Captura%20de%20pantalla%202022-10-20%20183040.png?raw=true))
 
-http://127.0.0.1:5000/store/Valentina_Store (endpoint)
 
-GET ITEM 
 
-![Image text](https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/GetItem.png)
-http://127.0.0.1:5000/store/Valentina_Store/item (endpoint)
+tiendas
+
+![Image text]([https://github.com/varrietasotelo/ApiRestFirst/blob/main/image/GetItem.png](https://github.com/juanpisjaja/RestApy/blob/main/img/Captura%20de%20pantalla%202022-10-20%20183101.png?raw=true))
+
